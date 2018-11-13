@@ -12,7 +12,7 @@
           "version": "1.0.0",
           "category": "Contributed",
 		  "help": {"online": "http://www.arduino.cc/en/Reference/HomePage"},
-          "url": "file://D:/Common_Folder/Downloads/formcard/formcard-samd-1.0.0.zip",
+          "url": "https://github.com/willow2ko/Formcard/raw/master/formcard-samd-1.0.0.zip",
           "archiveFileName": "formcard-samd-1.0.0.zip",
           "checksum": "SHA-256:49d93681c402cd88314c7191eaf88fc6baca03b11f716ecd6df3661fda3f2ae5",
           "size": "4344914",
