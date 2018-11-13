@@ -135,7 +135,7 @@
               "size": "27382"
             }
           ]
-        }
+        },
 		{
           "name": "openocd",
           "version": "0.9.0-arduino6-static",
